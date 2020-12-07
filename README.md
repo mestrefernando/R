@@ -1,2 +1,1 @@
-# R
-R stuff
+Basic stuff, personal growth and more to come.
