@@ -1,1 +1,1 @@
-Basic stuff, personal growth and more to come..
+Basic stuff, personal growth and more to come.
