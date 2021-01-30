@@ -1,4 +1,4 @@
-# Basic map of USA
+# Basic map of USA.
 library(ggplot2)
 library(ggmap)
 library(maps)
