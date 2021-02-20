@@ -14,4 +14,3 @@ plot(x = airquality$Wind,
      pch = 20)
 
 graphics.off()
-
